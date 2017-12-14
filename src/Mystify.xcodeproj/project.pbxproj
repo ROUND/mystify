@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3610BA101FE327290077C6AD /* thumbnail.png in Resources */ = {isa = PBXBuildFile; fileRef = 3610BA0E1FE327290077C6AD /* thumbnail.png */; };
-		3610BA111FE327290077C6AD /* thumbnail@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3610BA0F1FE327290077C6AD /* thumbnail@2x.png */; };
+		3610BA131FE3297A0077C6AD /* thumbnail.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 3610BA121FE3297A0077C6AD /* thumbnail.pdf */; };
 		369D1B2F1FE3217C002154C0 /* WSPreferences.m in Sources */ = {isa = PBXBuildFile; fileRef = 369D1B2E1FE3217C002154C0 /* WSPreferences.m */; };
 		3A40066C18B53113005F43A6 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A40066B18B53112005F43A6 /* Cocoa.framework */; };
 		3A40066E18B53113005F43A6 /* ScreenSaver.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A40066D18B53113005F43A6 /* ScreenSaver.framework */; };
@@ -18,8 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3610BA0E1FE327290077C6AD /* thumbnail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumbnail.png; sourceTree = "<group>"; };
-		3610BA0F1FE327290077C6AD /* thumbnail@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail@2x.png"; sourceTree = "<group>"; };
+		3610BA121FE3297A0077C6AD /* thumbnail.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = thumbnail.pdf; sourceTree = "<group>"; };
 		369D1B2E1FE3217C002154C0 /* WSPreferences.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WSPreferences.m; sourceTree = "<group>"; };
 		3A40066818B53112005F43A6 /* Mystify.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Mystify.saver; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A40066B18B53112005F43A6 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
@@ -94,8 +92,7 @@
 				369D1B2E1FE3217C002154C0 /* WSPreferences.m */,
 				3A40067B18B53113005F43A6 /* WSView.m */,
 				3A40068418B53226005F43A6 /* index.html */,
-				3610BA0E1FE327290077C6AD /* thumbnail.png */,
-				3610BA0F1FE327290077C6AD /* thumbnail@2x.png */,
+				3610BA121FE3297A0077C6AD /* thumbnail.pdf */,
 				3A40067518B53113005F43A6 /* Info.plist */,
 			);
 			name = Source;
@@ -169,9 +166,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3610BA101FE327290077C6AD /* thumbnail.png in Resources */,
+				3610BA131FE3297A0077C6AD /* thumbnail.pdf in Resources */,
 				3A40068518B53226005F43A6 /* index.html in Resources */,
-				3610BA111FE327290077C6AD /* thumbnail@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
